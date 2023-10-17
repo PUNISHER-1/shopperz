@@ -1,2 +1,1 @@
-# ignou_project
-bca finals project
+home page for shopping website
